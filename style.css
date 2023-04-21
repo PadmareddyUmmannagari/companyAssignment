@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    color: #323e66;
+}
+
+.bg-color {
+    background-color: #fca092;
+    padding: 30px;
+}
+
+.profile-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 3px solid #323e66;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    justify-content: space-around;
+}
+
+.CAROLINE {
+    width: 300px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icon {
+    font-size: 60px;
+}
+
+.p {
+    border: 3px solid #323e66;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    margin-bottom: 0px;
+    padding: 10px;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.work-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.work-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.years {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-bottom: 10px;
+}
+
+.dots {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.award-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.circle-size {
+    height: 13px;
+    width: 13px;
+    background-color: #323e66;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+
+.skill-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #323e66;
+    border-left: none;
+    border-right: none;
+}
+
+.middle-border {
+    border: 3px solid #323e66;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+}
+
+.skills {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.Interests-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.fav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Education {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.award-layout {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.Education-section {
+    border: 3px solid #323e66;
+    border-left: none;
+    border-right: none;
+    padding: 20px;
+}
